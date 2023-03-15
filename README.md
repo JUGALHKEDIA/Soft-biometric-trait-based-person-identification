@@ -13,3 +13,7 @@ The subject repeats forward (A to B) and backward (B to A) walking thrice of eac
 ## Dataset: 
 
 The entire dataset is private. Processed [binary silhouettes](https://drive.google.com/file/d/1xKyrxciKWBoV5CpcVe7Jv_NQSkrVdSg8/view?usp=share_link) are open source and freely available.
+
+Example(id-10): video gait to frame-by-frame processed binary
+
+![example of video gait to frame-by-frame processed binary](/root/example.png "video gait cycle to frame-by-frame processed binary")
