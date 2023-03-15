@@ -16,5 +16,6 @@ The entire dataset is private. Processed [binary silhouettes](https://drive.goog
 
 
 ![example of video gait to frame-by-frame processed binary](https://github.com/JUGALHKEDIA/Soft-biometric-trait-based-person-identification/blob/main/example.gif "video gait cycle to frame-by-frame processed binary") 
-***Example(id-10): video gait to frame-by-frame processed binary***
+
+*Example(id-10): video gait to frame-by-frame processed binary*
 
