@@ -23,7 +23,7 @@ Further these binary sillhouettes are processed capturing intended region "walki
 
 <img src="https://github.com/JUGALHKEDIA/Soft-biometric-trait-based-person-identification/blob/main/silhouette2cropsilhouette.png" alt="silhouette2cropsilhouette" style="width:100%"> 
 
-Once the cropped silhouettes are obtained, any model free gait representation method can be applied. Following is an example for generating Gait Energy Image (GEI) image from the processed silouetttes.
+Once the cropped silhouettes are obtained, any model free gait representation method can be applied. Following is an example for generating Gait Energy Image (GEI) from the processed silouetttes.
 
 <img src="https://github.com/JUGALHKEDIA/Soft-biometric-trait-based-person-identification/blob/main/toGEI.gif" alt="toGEI" style="width:100%">
 
