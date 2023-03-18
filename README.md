@@ -19,11 +19,11 @@ The entire dataset is private. Processed [binary silhouettes](https://drive.goog
 <img src="https://github.com/JUGALHKEDIA/Soft-biometric-trait-based-person-identification/blob/main/example.gif" alt="example of video gait to frame-by-frame processed binary" style="width:100%">
 
 
-
-
 Further these binary sillhouettes are processed capturing intended region "walking person" and size normalized to 88 x 122 pixel (Width x Height) dimension. These cropped silhouettes are available [here](https://drive.google.com/file/d/1dzgReYswXsfMLWeAf01fktpa6cxPe4Yg/view?usp=sharing).
 
 <img src="https://github.com/JUGALHKEDIA/Soft-biometric-trait-based-person-identification/blob/main/silhouette2cropsilhouette.png" alt="silhouette2cropsilhouette" style="width:100%"> 
 
+Once the cropped silhouettes are obtained, any model free gait representation method can be applied. Following is an example for generating Gait Energy Image (GEI) image from the processed silouetttes.
 
+<img src="https://github.com/JUGALHKEDIA/Soft-biometric-trait-based-person-identification/blob/main/toGEI.png" alt="toGEI" style="width:100%">
 
