@@ -20,4 +20,6 @@ The entire dataset is private. Processed [binary silhouettes](https://drive.goog
 </figure>
 
 
+Further these binary sillhouettes are processed capturing intended region "walking person" and size normalized to 88 x 122 pixel (Width x Height) dimension. These cropped silhouettes are available [here](https://drive.google.com/file/d/1dzgReYswXsfMLWeAf01fktpa6cxPe4Yg/view?usp=sharing).
+
 
